@@ -1,0 +1,9 @@
+[package]
+name = "cpal-input-demo"
+version = "0.1.0"
+authors = ["Miles Steele <miles@milessteele.com>"]
+edition = "2018"
+
+[dependencies]
+cpal = "0.10.0"
+failure = "0.1.5"
